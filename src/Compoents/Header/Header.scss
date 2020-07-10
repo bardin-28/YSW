@@ -1,0 +1,27 @@
+.header {
+    background: #282B2E;
+    padding: 15px 0px;
+}
+
+h1 {
+    color: #BEBFC0;
+    font-size: 25px;
+
+    span {
+        margin-left: 5px;
+        color: #DCA74A;
+    }
+}
+
+.hat {
+    display: flex;
+    color: #BEBFC0;
+    justify-content: space-between;
+}
+
+.hat__search-input {
+    padding: 2px;
+    color: #BEBFC0;
+    background: transparent;
+    border-bottom: 1px solid #BEBFC0;
+}
